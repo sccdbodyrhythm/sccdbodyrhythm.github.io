@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccdbodyrhythm.github.io" resolutions="1x" timestamp="1586182126703">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccdbodyrhythm.github.io" resolutions="1x" timestamp="1586184211743">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="she.css" crc="4280263553" ref="she"/>
@@ -7,14 +7,14 @@
     <file name="nomq_feat.css" crc="327959251" ref="feat"/>
     <file name="swoon.css" crc="456190227" ref="swoon"/>
     <file name="nomq_swoon.css" crc="4046497543" ref="swoon"/>
-    <file name="lntroduction.css" crc="4071052710" ref="lntroduction"/>
-    <file name="nomq_lntroduction.css" crc="3832907903" ref="lntroduction"/>
+    <file name="lntroduction.css" crc="3863429733" ref="lntroduction"/>
+    <file name="nomq_lntroduction.css" crc="476946215" ref="lntroduction"/>
     <file name="souvenreve.css" crc="3887048981" ref="souvenreve"/>
     <file name="nomq_souvenreve.css" crc="3862084995" ref="souvenreve"/>
     <file name="yin.css" crc="3850316652" ref="yin"/>
     <file name="nomq_yin.css" crc="465894392" ref="yin"/>
-    <file name="index.css" crc="3940302320" ref="index"/>
-    <file name="nomq_index.css" crc="4253207579" ref="index"/>
+    <file name="index.css" crc="482313571" ref="index"/>
+    <file name="nomq_index.css" crc="198532753" ref="index"/>
     <file name="emo.css" crc="135507539" ref="emo"/>
     <file name="nomq_emo.css" crc="3873922830" ref="emo"/>
     <file name="making-fun.css" crc="417983919" ref="making-fun"/>
@@ -29,8 +29,8 @@
     <file name="nomq_ta-ma-de-jien-bu-de.css" crc="529241995" ref="ta-ma-de-jien-bu-de"/>
     <file name="fan-chang.css" crc="3793517570" ref="fan-chang"/>
     <file name="nomq_fan-chang.css" crc="4092892389" ref="fan-chang"/>
-    <file name="body-rhythm-q-a.css" crc="521993623" ref="body-rhythm-q-a"/>
-    <file name="nomq_body-rhythm-q-a.css" crc="3908159515" ref="body-rhythm-q-a"/>
+    <file name="body-rhythm-q-a.css" crc="317059635" ref="body-rhythm-q-a"/>
+    <file name="nomq_body-rhythm-q-a.css" crc="106743990" ref="body-rhythm-q-a"/>
     <file name="she_s-an-alien.css" crc="427949089" ref="she’s-an-alien"/>
     <file name="nomq_she_s-an-alien.css" crc="353650198" ref="she’s-an-alien"/>
     <file name="roam.css" crc="3785628424" ref="roam"/>
@@ -39,8 +39,8 @@
     <file name="nomq_yu-zou-le-se.css" crc="4039654434" ref="yu-zou-le-se"/>
     <file name="mystery.css" crc="443291281" ref="mystery"/>
     <file name="nomq_mystery.css" crc="4067130637" ref="mystery"/>
-    <file name="i-m-a-clown.css" crc="127986994" ref="i-m-a-clown"/>
-    <file name="nomq_i-m-a-clown.css" crc="524526192" ref="i-m-a-clown"/>
+    <file name="i-m-a-clown.css" crc="3760879855" ref="i-m-a-clown"/>
+    <file name="nomq_i-m-a-clown.css" crc="99365456" ref="i-m-a-clown"/>
     <file name="projection.css" crc="4074607431" ref="projection"/>
     <file name="nomq_projection.css" crc="179251321" ref="projection"/>
     <file name="zing.css" crc="351579537" ref="zing"/>
@@ -91,12 +91,12 @@
     <file name="require.js" crc="4157109226" ref="index:lntroduction:i-m-a-clown:fanny-the-thief:coco:cleave:zuy-pao:yu-zou-le-se:projection:zong-guo-shiang-chang:ling:bondage:smurf:chan:mystery:she’s-an-alien:fan-chang:zing:phantom:silent:jimmy:she:souvenreve:emo:purple-demon-invading:shin-bu-zai-yen:roam:lamprophony:zang-zu-wei:taquiner:tao:feat:sparkle:yin:swoon:making-fun:ta-ma-de-jien-bu-de:body-rhythm-q-a:ta-ma-de-jien-bu-de副本"/>
   </folder>
   <folder name="images">
-    <file name="projects-favicon.ico" crc="99973827" ref="index"/>
+    <file name="homepage-favicon.ico" crc="99973827" ref="index"/>
     <file name="a2020.jpg" crc="234176475" ref="index:lntroduction">
       <caption webpage="index" alt=""/>
       <caption webpage="lntroduction" alt=""/>
     </file>
-    <file name="封面_工作區域 1.jpg" crc="473604219" ref="index">
+    <file name="c2020.jpg" crc="473604219" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a0807105.png" crc="4243998740" ref="index">
@@ -205,7 +205,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="a2020-u10855-fr.jpg" crc="4099945386" ref="index"/>
-    <file name="封面_工作區域 1-u10238-fr.jpg" crc="4138700817" ref="index"/>
+    <file name="c2020-u10238-fr.jpg" crc="4138700817" ref="index"/>
     <file name="a0807105-u685-fr.png" crc="4141619774" ref="index"/>
     <file name="img_5351-u1864-fr.jpg" crc="4189340929" ref="index"/>
     <file name="img_4906-u1314-fr.png" crc="179316359" ref="index"/>
@@ -242,7 +242,7 @@
     <file name="截圖-u1993-fr.png" crc="216144611" ref="index"/>
     <file name="a0807018-u2242-fr.png" crc="417933657" ref="index"/>
     <file name="a2020-u10855-fr2.jpg" crc="4045839381" ref="index"/>
-    <file name="封面_工作區域 1-u10238-fr2.jpg" crc="331060759" ref="index"/>
+    <file name="c2020-u10238-fr2.jpg" crc="331060759" ref="index"/>
     <file name="a0807105-u685-fr2.png" crc="125333560" ref="index"/>
     <file name="img_5351-u1864-fr2.jpg" crc="3790829463" ref="index"/>
     <file name="img_4906-u1314-fr2.png" crc="528628076" ref="index"/>
@@ -279,7 +279,7 @@
     <file name="截圖-u1993-fr2.png" crc="3804203068" ref="index"/>
     <file name="a0807018-u2242-fr2.png" crc="156630331" ref="index"/>
     <file name="a2020-u10855-fr3.jpg" crc="261097229" ref="index"/>
-    <file name="封面_工作區域 1-u10238-fr3.jpg" crc="232534113" ref="index"/>
+    <file name="c2020-u10238-fr3.jpg" crc="232534113" ref="index"/>
     <file name="a0807105-u685-fr3.png" crc="390677203" ref="index"/>
     <file name="img_5351-u1864-fr3.jpg" crc="371165075" ref="index"/>
     <file name="img_4906-u1314-fr3.png" crc="4286991946" ref="index"/>
@@ -316,7 +316,7 @@
     <file name="截圖-u1993-fr3.png" crc="3996652587" ref="index"/>
     <file name="a0807018-u2242-fr3.png" crc="4035612178" ref="index"/>
     <file name="a2020-u10855-fr4.jpg" crc="359695333" ref="index"/>
-    <file name="封面_工作區域 1-u10238-fr4.jpg" crc="140621675" ref="index"/>
+    <file name="c2020-u10238-fr4.jpg" crc="140621675" ref="index"/>
     <file name="a0807105-u685-fr4.png" crc="4043765343" ref="index"/>
     <file name="img_5351-u1864-fr4.jpg" crc="283372286" ref="index"/>
     <file name="img_4906-u1314-fr4.png" crc="4147577362" ref="index"/>
@@ -353,7 +353,7 @@
     <file name="截圖-u1993-fr4.png" crc="3990715469" ref="index"/>
     <file name="a0807018-u2242-fr4.png" crc="3841444011" ref="index"/>
     <file name="a2020-u10855-fr5.jpg" crc="4244325654" ref="index"/>
-    <file name="封面_工作區域 1-u10238-fr5.jpg" crc="180472829" ref="index"/>
+    <file name="c2020-u10238-fr5.jpg" crc="180472829" ref="index"/>
     <file name="a0807105-u685-fr5.png" crc="253285133" ref="index"/>
     <file name="img_5351-u1864-fr5.jpg" crc="4247057879" ref="index"/>
     <file name="img_4906-u1314-fr5.png" crc="247178952" ref="index"/>
@@ -400,14 +400,16 @@
     <file name="u3663-72.png" crc="3887288326" ref="i-m-a-clown"/>
     <file name="u3644-43.png" crc="3925928183" ref="i-m-a-clown"/>
     <file name="u3663-73.png" crc="4168952585" ref="i-m-a-clown"/>
-    <file name="u3644-44.png" crc="131690806" ref="i-m-a-clown"/>
-    <file name="u3663-74.png" crc="3972411165" ref="i-m-a-clown"/>
-    <file name="u3644-45.png" crc="4135317846" ref="i-m-a-clown"/>
-    <file name="u3663-75.png" crc="123410322" ref="i-m-a-clown"/>
-    <file name="u3644-46.png" crc="403226473" ref="i-m-a-clown"/>
-    <file name="u3663-76.png" crc="103748708" ref="i-m-a-clown"/>
-    <file name="u3644-47.png" crc="4224770360" ref="i-m-a-clown"/>
-    <file name="u3663-77.png" crc="4268173656" ref="i-m-a-clown"/>
+    <file name="u3644-44.png" crc="4103757017" ref="i-m-a-clown"/>
+    <file name="u3663-74.png" crc="108701515" ref="i-m-a-clown"/>
+    <file name="u3644-45.png" crc="131690806" ref="i-m-a-clown"/>
+    <file name="u3663-75.png" crc="3972411165" ref="i-m-a-clown"/>
+    <file name="u3644-46.png" crc="4135317846" ref="i-m-a-clown"/>
+    <file name="u3663-76.png" crc="123410322" ref="i-m-a-clown"/>
+    <file name="u3644-47.png" crc="403226473" ref="i-m-a-clown"/>
+    <file name="u3663-77.png" crc="103748708" ref="i-m-a-clown"/>
+    <file name="u3644-48.png" crc="4224770360" ref="i-m-a-clown"/>
+    <file name="u3663-78.png" crc="4268173656" ref="i-m-a-clown"/>
     <file name="blank.gif" crc="4208392903" ref="i-m-a-clown:fanny-the-thief:coco:cleave:zuy-pao:yu-zou-le-se:projection:zong-guo-shiang-chang:ling:bondage:smurf:chan:mystery:she’s-an-alien:fan-chang:zing:phantom:silent:jimmy:she:souvenreve:emo:purple-demon-invading:shin-bu-zai-yen:roam:lamprophony:zang-zu-wei:taquiner:tao:feat:sparkle:yin:swoon:making-fun:ta-ma-de-jien-bu-de:body-rhythm-q-a:ta-ma-de-jien-bu-de副本"/>
     <file name="u4861-7.png" crc="278866695" ref="fanny-the-thief"/>
     <file name="u4861-72.png" crc="295694115" ref="fanny-the-thief"/>
@@ -672,9 +674,9 @@
     <file name="u10804-44.png" crc="111666471" ref="ta-ma-de-jien-bu-de副本"/>
     <file name="u10803-134.png" crc="332243895" ref="ta-ma-de-jien-bu-de副本"/>
   </folder>
-  <file name="index.html" crc="52566462" seo="true" mt="1586161516598" redirect="true"/>
-  <file name="lntroduction.html" crc="4031745045" seo="true" mt="1586179734651" redirect="true"/>
-  <file name="i-m-a-clown.html" crc="428931372" seo="true" mt="1586161685888" redirect="true"/>
+  <file name="index.html" crc="59908953" seo="true" mt="1586183415862" redirect="true"/>
+  <file name="lntroduction.html" crc="182427834" seo="true" mt="1586183580254" redirect="true"/>
+  <file name="i-m-a-clown.html" crc="125303873" seo="true" mt="1586184157317" redirect="true"/>
   <file name="fanny-the-thief.html" crc="4190037388" seo="true" mt="1586161750865" redirect="true"/>
   <file name="coco.html" crc="213996471" seo="true" mt="1586159919693" redirect="true"/>
   <file name="cleave.html" crc="100340368" seo="true" mt="1586159862020" redirect="true"/>
@@ -709,6 +711,6 @@
   <file name="swoon.html" crc="307949683" seo="true" mt="1586160342938" redirect="true"/>
   <file name="making-fun.html" crc="3977873302" seo="true" mt="1586160252490" redirect="true"/>
   <file name="ta-ma-de-jien-bu-de.html" crc="4053411590" seo="true" mt="1586160191518" redirect="true"/>
-  <file name="body-rhythm-q-a.html" crc="269574416" seo="true" mt="1586179860525" redirect="true"/>
+  <file name="body-rhythm-q-a.html" crc="277220255" seo="true" mt="1586183635981" redirect="true"/>
   <file name="ta-ma-de-jien-bu-de副本.html" crc="4071339266" seo="true" mt="1586160112700" redirect="true"/>
 </manifest>
