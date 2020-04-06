@@ -1,0 +1,563 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccdbodyrhythm.github.io" resolutions="1x" timestamp="1586149138097">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="____________.css" crc="3845456674" ref="紫色のデーモン侵入注意!"/>
+    <file name="nomq_____________.css" crc="3889436677" ref="紫色のデーモン侵入注意!"/>
+    <file name="body-rhythm-q-a.css" crc="4245105233" ref="body-rhythm-q-a"/>
+    <file name="nomq_body-rhythm-q-a.css" crc="298009681" ref="body-rhythm-q-a"/>
+    <file name="index.css" crc="508077536" ref="index"/>
+    <file name="nomq_index.css" crc="3839231580" ref="index"/>
+    <file name="taquiner.css" crc="265774191" ref="taquiner"/>
+    <file name="nomq_taquiner.css" crc="512905828" ref="taquiner"/>
+    <file name="_.css" crc="4149041864" ref="靈"/>
+    <file name="nomq__.css" crc="513730050" ref="靈"/>
+    <file name="__.css" crc="471310190" ref="嘴砲"/>
+    <file name="nomq___.css" crc="3981938704" ref="嘴砲"/>
+    <file name="cleave.css" crc="51718385" ref="cleave"/>
+    <file name="nomq_cleave.css" crc="4060756188" ref="cleave"/>
+    <file name="mystery.css" crc="3881750106" ref="mystery"/>
+    <file name="nomq_mystery.css" crc="4067130637" ref="mystery"/>
+    <file name="souvenreve.css" crc="363227533" ref="souvenreve"/>
+    <file name="nomq_souvenreve.css" crc="3862084995" ref="souvenreve"/>
+    <file name="she_s-an-alien.css" crc="3884739771" ref="she’s-an-alien"/>
+    <file name="nomq_she_s-an-alien.css" crc="353650198" ref="she’s-an-alien"/>
+    <file name="smurf.css" crc="183548259" ref="smurf"/>
+    <file name="nomq_smurf.css" crc="3977606561" ref="smurf"/>
+    <file name="____2.css" crc="152683367" ref="心不在菸"/>
+    <file name="nomq_____2.css" crc="519822781" ref="心不在菸"/>
+    <file name="_5.css" crc="3791201376" ref="癮"/>
+    <file name="nomq__5.css" crc="465894392" ref="癮"/>
+    <file name="projection.css" crc="432290332" ref="projection"/>
+    <file name="nomq_projection.css" crc="179251321" ref="projection"/>
+    <file name="____1.css" crc="4162142204" ref="中國香腸"/>
+    <file name="nomq_____1.css" crc="4173404426" ref="中國香腸"/>
+    <file name="__2.css" crc="340444653" ref="作樂"/>
+    <file name="nomq___2.css" crc="443232700" ref="作樂"/>
+    <file name="phantom.css" crc="451621963" ref="phantom"/>
+    <file name="nomq_phantom.css" crc="225868310" ref="phantom"/>
+    <file name="lamprophony.css" crc="197860140" ref="lamprophony"/>
+    <file name="nomq_lamprophony.css" crc="357363384" ref="lamprophony"/>
+    <file name="______.css" crc="3917530265" ref="他媽的見不得"/>
+    <file name="nomq_______.css" crc="531807821" ref="他媽的見不得"/>
+    <file name="fanny-the-thief.css" crc="378998053" ref="fanny-the-thief"/>
+    <file name="nomq_fanny-the-thief.css" crc="52336061" ref="fanny-the-thief"/>
+    <file name="lntroduction.css" crc="37681893" ref="lntroduction"/>
+    <file name="nomq_lntroduction.css" crc="80684707" ref="lntroduction"/>
+    <file name="__1.css" crc="4163764520" ref="反常"/>
+    <file name="nomq___1.css" crc="4092892389" ref="反常"/>
+    <file name="jimmy.css" crc="134054709" ref="jimmy"/>
+    <file name="nomq_jimmy.css" crc="3896720214" ref="jimmy"/>
+    <file name="_1.css" crc="131407673" ref="纏"/>
+    <file name="nomq__1.css" crc="3768078015" ref="纏"/>
+    <file name="emo.css" crc="253520137" ref="emo"/>
+    <file name="nomq_emo.css" crc="3873922830" ref="emo"/>
+    <file name="bondage.css" crc="522332203" ref="bondage"/>
+    <file name="nomq_bondage.css" crc="463106794" ref="bondage"/>
+    <file name="_________________________.css" crc="386865350" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="nomq__________________________.css" crc="4145170951" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="swoon.css" crc="387705144" ref="swoon"/>
+    <file name="nomq_swoon.css" crc="4046497543" ref="swoon"/>
+    <file name="____.css" crc="3898546954" ref="宇宙垃圾"/>
+    <file name="nomq_____.css" crc="4039654434" ref="宇宙垃圾"/>
+    <file name="silent.css" crc="4043754363" ref="silent"/>
+    <file name="nomq_silent.css" crc="155635854" ref="silent"/>
+    <file name="roam.css" crc="434112235" ref="roam"/>
+    <file name="nomq_roam.css" crc="3787409296" ref="roam"/>
+    <file name="_3.css" crc="371967033" ref="赦"/>
+    <file name="nomq__3.css" crc="3986325186" ref="赦"/>
+    <file name="coco.css" crc="3831984940" ref="coco"/>
+    <file name="nomq_coco.css" crc="4150267641" ref="coco"/>
+    <file name="feat.css" crc="170577150" ref="feat"/>
+    <file name="nomq_feat.css" crc="327959251" ref="feat"/>
+    <file name="___.css" crc="443332457" ref="我就丑"/>
+    <file name="nomq____.css" crc="524526192" ref="我就丑"/>
+    <file name="sparkle.css" crc="503367734" ref="sparkle"/>
+    <file name="nomq_sparkle.css" crc="454115812" ref="sparkle"/>
+    <file name="_2.css" crc="3848105211" ref="靜"/>
+    <file name="nomq__2.css" crc="470972849" ref="靜"/>
+    <file name="_4.css" crc="3798065590" ref="濤"/>
+    <file name="nomq__4.css" crc="3888839104" ref="濤"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="museutils.js" crc="3803043152" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="museconfig.js" crc="380897831" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:lntroduction"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="require.js" crc="4157109226" ref="index:lntroduction:我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+  </folder>
+  <folder name="images">
+    <file name="projects-favicon.ico" crc="99973827" ref="index"/>
+    <file name="封面_工作區域 1.jpg" crc="473604219" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807105.png" crc="4243998740" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_5351.jpg" crc="108694978" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4906.png" crc="254927507" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807017.png" crc="370611288" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名.png" crc="496683638" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mvi_003500_00_08_16still003.jpg" crc="4205205961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807006.jpg" crc="4267577071" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807034.jpg" crc="3941924164" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807032.jpg" crc="90465173" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807014.png" crc="4256264263" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6102.png" crc="3777907812" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807009.png" crc="3883643468" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807024.jpg" crc="4228801832" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0607049.jpg" crc="4224922594" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0707152.png" crc="3793746791" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807149.jpg" crc="86691659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807125.jpg" crc="391052694" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807139.jpg" crc="23166543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807112.jpg" crc="3860482957" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807022.png" crc="4279317052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807029.jpg" crc="44125525" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807010.jpg" crc="237860242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807126詹瑀婕.jpg" crc="4250839873" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807047.png" crc="3865678219" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807140.jpg" crc="127695139" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807145.jpg" crc="4217598738" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807035.jpg" crc="371655088" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0707202.png" crc="206991510" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="截圖.png" crc="153964433" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807048.jpg" crc="3968147363" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807020.png" crc="33752932" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807004.jpg" crc="4184298031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807031.png" crc="4071812099" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="截圖2.png" crc="4188452334" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807018.png" crc="4187703297" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807014-u643-fr.png" crc="470328924" ref="index"/>
+    <file name="img_5351-u1864-fr.jpg" crc="4189340929" ref="index"/>
+    <file name="a0807105-u685-fr.png" crc="4141619774" ref="index"/>
+    <file name="封面_工作區域 1-u10238-fr.jpg" crc="4138700817" ref="index"/>
+    <file name="img_4906-u1314-fr.png" crc="179316359" ref="index"/>
+    <file name="a0807017-u1320-fr.png" crc="4000819324" ref="index"/>
+    <file name="未命名-u1870-fr.png" crc="227880293" ref="index"/>
+    <file name="mvi_003500_00_08_16still003-u1972-fr.jpg" crc="4207446651" ref="index"/>
+    <file name="a0807006-u1978-fr.jpg" crc="4060675245" ref="index"/>
+    <file name="a0807034-u1983-fr.jpg" crc="4253693629" ref="index"/>
+    <file name="a0807032-u1988-fr.jpg" crc="36111859" ref="index"/>
+    <file name="截圖-u1993-fr.png" crc="216144611" ref="index"/>
+    <file name="img_6102-u1998-fr.png" crc="4098310456" ref="index"/>
+    <file name="a0807009-u2034-fr.png" crc="29757855" ref="index"/>
+    <file name="a0807024-u2040-fr.jpg" crc="76819331" ref="index"/>
+    <file name="a0607049-u2045-fr.jpg" crc="3913064113" ref="index"/>
+    <file name="a0707152-u2050-fr.png" crc="510794385" ref="index"/>
+    <file name="a0807149-u2055-fr.jpg" crc="77948713" ref="index"/>
+    <file name="a0807125-u2060-fr.jpg" crc="311677559" ref="index"/>
+    <file name="a0807139-u2156-fr.jpg" crc="4258103863" ref="index"/>
+    <file name="a0807112-u2162-fr.jpg" crc="27659735" ref="index"/>
+    <file name="a0807022-u2167-fr.png" crc="501438321" ref="index"/>
+    <file name="a0807029-u2172-fr.jpg" crc="63640710" ref="index"/>
+    <file name="a0807010-u2177-fr.jpg" crc="187617360" ref="index"/>
+    <file name="a0807126詹瑀婕-u2182-fr.jpg" crc="4153615062" ref="index"/>
+    <file name="a0807047-u2187-fr.png" crc="418323818" ref="index"/>
+    <file name="a0807140-u2192-fr.jpg" crc="4125633450" ref="index"/>
+    <file name="a0807145-u2197-fr.jpg" crc="308432878" ref="index"/>
+    <file name="a0807035-u2202-fr.jpg" crc="258576123" ref="index"/>
+    <file name="a0707202-u2207-fr.png" crc="3781864206" ref="index"/>
+    <file name="截圖-u2212-fr.png" crc="3822935261" ref="index"/>
+    <file name="a0807048-u2217-fr.jpg" crc="275195832" ref="index"/>
+    <file name="a0807020-u2222-fr.png" crc="4188740333" ref="index"/>
+    <file name="a0807004-u2227-fr.jpg" crc="448113819" ref="index"/>
+    <file name="a0807031-u2232-fr.png" crc="174277514" ref="index"/>
+    <file name="a0807018-u2242-fr.png" crc="417933657" ref="index"/>
+    <file name="a0807014-u643-fr2.png" crc="108989724" ref="index"/>
+    <file name="img_5351-u1864-fr2.jpg" crc="3790829463" ref="index"/>
+    <file name="a0807105-u685-fr2.png" crc="125333560" ref="index"/>
+    <file name="封面_工作區域 1-u10238-fr2.jpg" crc="331060759" ref="index"/>
+    <file name="img_4906-u1314-fr2.png" crc="528628076" ref="index"/>
+    <file name="a0807017-u1320-fr2.png" crc="4045720021" ref="index"/>
+    <file name="未命名-u1870-fr2.png" crc="4110995918" ref="index"/>
+    <file name="mvi_003500_00_08_16still003-u1972-fr2.jpg" crc="84461303" ref="index"/>
+    <file name="a0807006-u1978-fr2.jpg" crc="251399814" ref="index"/>
+    <file name="a0807034-u1983-fr2.jpg" crc="3872276670" ref="index"/>
+    <file name="a0807032-u1988-fr2.jpg" crc="498515564" ref="index"/>
+    <file name="截圖-u1993-fr2.png" crc="3804203068" ref="index"/>
+    <file name="img_6102-u1998-fr2.png" crc="4008469998" ref="index"/>
+    <file name="a0807009-u2034-fr2.png" crc="199992594" ref="index"/>
+    <file name="a0807024-u2040-fr2.jpg" crc="51739337" ref="index"/>
+    <file name="a0607049-u2045-fr2.jpg" crc="4259745183" ref="index"/>
+    <file name="a0707152-u2050-fr2.png" crc="4223517389" ref="index"/>
+    <file name="a0807149-u2055-fr2.jpg" crc="331057017" ref="index"/>
+    <file name="a0807125-u2060-fr2.jpg" crc="203254701" ref="index"/>
+    <file name="a0807139-u2156-fr2.jpg" crc="3850328653" ref="index"/>
+    <file name="a0807112-u2162-fr2.jpg" crc="3914300702" ref="index"/>
+    <file name="a0807022-u2167-fr2.png" crc="4264780055" ref="index"/>
+    <file name="a0807029-u2172-fr2.jpg" crc="208006215" ref="index"/>
+    <file name="a0807010-u2177-fr2.jpg" crc="4015170566" ref="index"/>
+    <file name="a0807126詹瑀婕-u2182-fr2.jpg" crc="471640716" ref="index"/>
+    <file name="a0807047-u2187-fr2.png" crc="3769653135" ref="index"/>
+    <file name="a0807140-u2192-fr2.jpg" crc="4205903497" ref="index"/>
+    <file name="a0807145-u2197-fr2.jpg" crc="211996728" ref="index"/>
+    <file name="a0807035-u2202-fr2.jpg" crc="397098472" ref="index"/>
+    <file name="a0707202-u2207-fr2.png" crc="3957547162" ref="index"/>
+    <file name="截圖-u2212-fr2.png" crc="238539193" ref="index"/>
+    <file name="a0807048-u2217-fr2.jpg" crc="529498622" ref="index"/>
+    <file name="a0807020-u2222-fr2.png" crc="197683458" ref="index"/>
+    <file name="a0807004-u2227-fr2.jpg" crc="224874241" ref="index"/>
+    <file name="a0807031-u2232-fr2.png" crc="196950150" ref="index"/>
+    <file name="a0807018-u2242-fr2.png" crc="156630331" ref="index"/>
+    <file name="a0807014-u643-fr3.png" crc="69433225" ref="index"/>
+    <file name="img_5351-u1864-fr3.jpg" crc="4247057879" ref="index"/>
+    <file name="a0807105-u685-fr3.png" crc="253285133" ref="index"/>
+    <file name="封面_工作區域 1-u10238-fr3.jpg" crc="180472829" ref="index"/>
+    <file name="img_4906-u1314-fr3.png" crc="247178952" ref="index"/>
+    <file name="a0807017-u1320-fr3.png" crc="3823730608" ref="index"/>
+    <file name="未命名-u1870-fr3.png" crc="4216485962" ref="index"/>
+    <file name="mvi_003500_00_08_16still003-u1972-fr3.jpg" crc="292956745" ref="index"/>
+    <file name="a0807006-u1978-fr3.jpg" crc="485042648" ref="index"/>
+    <file name="a0807034-u1983-fr3.jpg" crc="3835378107" ref="index"/>
+    <file name="a0807032-u1988-fr3.jpg" crc="513968384" ref="index"/>
+    <file name="截圖-u1993-fr3.png" crc="4273805249" ref="index"/>
+    <file name="img_6102-u1998-fr3.png" crc="4212489337" ref="index"/>
+    <file name="a0807009-u2034-fr3.png" crc="127771540" ref="index"/>
+    <file name="a0807024-u2040-fr3.jpg" crc="58789917" ref="index"/>
+    <file name="a0607049-u2045-fr3.jpg" crc="409452577" ref="index"/>
+    <file name="a0707152-u2050-fr3.png" crc="3952310315" ref="index"/>
+    <file name="a0807149-u2055-fr3.jpg" crc="156266309" ref="index"/>
+    <file name="a0807125-u2060-fr3.jpg" crc="4046554997" ref="index"/>
+    <file name="a0807139-u2156-fr3.jpg" crc="3783191417" ref="index"/>
+    <file name="a0807112-u2162-fr3.jpg" crc="3772656192" ref="index"/>
+    <file name="a0807022-u2167-fr3.png" crc="92483378" ref="index"/>
+    <file name="a0807029-u2172-fr3.jpg" crc="4019552247" ref="index"/>
+    <file name="a0807010-u2177-fr3.jpg" crc="4005101921" ref="index"/>
+    <file name="a0807126詹瑀婕-u2182-fr3.jpg" crc="379681770" ref="index"/>
+    <file name="a0807047-u2187-fr3.png" crc="3954254728" ref="index"/>
+    <file name="a0807140-u2192-fr3.jpg" crc="216721977" ref="index"/>
+    <file name="a0807145-u2197-fr3.jpg" crc="4127122680" ref="index"/>
+    <file name="a0807035-u2202-fr3.jpg" crc="442929340" ref="index"/>
+    <file name="a0707202-u2207-fr3.png" crc="238076161" ref="index"/>
+    <file name="截圖-u2212-fr3.png" crc="76244176" ref="index"/>
+    <file name="a0807048-u2217-fr3.jpg" crc="69411088" ref="index"/>
+    <file name="a0807020-u2222-fr3.png" crc="45028344" ref="index"/>
+    <file name="a0807004-u2227-fr3.jpg" crc="81370271" ref="index"/>
+    <file name="a0807031-u2232-fr3.png" crc="4277748955" ref="index"/>
+    <file name="a0807018-u2242-fr3.png" crc="4196356312" ref="index"/>
+    <file name="lntroduction-favicon.ico" crc="99973827" ref="lntroduction"/>
+    <file name="a2020.jpg" crc="232288961" ref="lntroduction">
+      <caption webpage="lntroduction" alt=""/>
+    </file>
+    <file name="a2020-u7572-fr.jpg" crc="475287336" ref="lntroduction"/>
+    <file name="a2020-u7572-fr2.jpg" crc="4150835062" ref="lntroduction"/>
+    <file name="u3644-4.png" crc="3908171890" ref="我就丑"/>
+    <file name="u3663-7.png" crc="139683674" ref="我就丑"/>
+    <file name="u3644-42.png" crc="163883801" ref="我就丑"/>
+    <file name="u3663-72.png" crc="3887288326" ref="我就丑"/>
+    <file name="u3644-43.png" crc="3925928183" ref="我就丑"/>
+    <file name="u3663-73.png" crc="4168952585" ref="我就丑"/>
+    <file name="u3644-44.png" crc="4224770360" ref="我就丑"/>
+    <file name="u3663-74.png" crc="4268173656" ref="我就丑"/>
+    <file name="blank.gif" crc="4208392903" ref="我就丑:fanny-the-thief:coco:cleave:嘴砲:宇宙垃圾:projection:中國香腸:靈:bondage:smurf:纏:mystery:she’s-an-alien:反常:靜:phantom:silent:jimmy:赦:souvenreve:emo:紫色のデーモン侵入注意!:心不在菸:roam:lamprophony:本造型作品由平面設計為媒體傳達設計系學生張祖維設計:taquiner:濤:feat:sparkle:癮:swoon:作樂:他媽的見不得:body-rhythm-q-a"/>
+    <file name="u4861-7.png" crc="278866695" ref="fanny-the-thief"/>
+    <file name="u4861-72.png" crc="295694115" ref="fanny-the-thief"/>
+    <file name="u4861-73.png" crc="4125660419" ref="fanny-the-thief"/>
+    <file name="u4861-74.png" crc="4154323351" ref="fanny-the-thief"/>
+    <file name="u4905-6.png" crc="3797043540" ref="coco"/>
+    <file name="u4905-62.png" crc="54057849" ref="coco"/>
+    <file name="u4905-63.png" crc="361785191" ref="coco"/>
+    <file name="u4905-64.png" crc="512035132" ref="coco"/>
+    <file name="u4970-6.png" crc="309024093" ref="cleave"/>
+    <file name="u4970-62.png" crc="4262066485" ref="cleave"/>
+    <file name="u4970-63.png" crc="341591009" ref="cleave"/>
+    <file name="u4970-64.png" crc="4088209132" ref="cleave"/>
+    <file name="u5068-4.png" crc="4197156918" ref="嘴砲"/>
+    <file name="u5069-6.png" crc="237290905" ref="嘴砲"/>
+    <file name="u5068-42.png" crc="4057541101" ref="嘴砲"/>
+    <file name="u5069-62.png" crc="4149308029" ref="嘴砲"/>
+    <file name="u5068-43.png" crc="4181777789" ref="嘴砲"/>
+    <file name="u5069-63.png" crc="225540853" ref="嘴砲"/>
+    <file name="u5068-44.png" crc="4096378775" ref="嘴砲"/>
+    <file name="u5069-64.png" crc="33484911" ref="嘴砲"/>
+    <file name="u5197-4.png" crc="169750908" ref="宇宙垃圾"/>
+    <file name="u5196-6.png" crc="190551780" ref="宇宙垃圾"/>
+    <file name="u5197-42.png" crc="3991316470" ref="宇宙垃圾"/>
+    <file name="u5196-62.png" crc="3859317230" ref="宇宙垃圾"/>
+    <file name="u5197-43.png" crc="115105611" ref="宇宙垃圾"/>
+    <file name="u5196-63.png" crc="431870429" ref="宇宙垃圾"/>
+    <file name="u5197-44.png" crc="4128791087" ref="宇宙垃圾"/>
+    <file name="u5196-64.png" crc="4099898627" ref="宇宙垃圾"/>
+    <file name="u5220-6.png" crc="37886618" ref="projection"/>
+    <file name="u5220-62.png" crc="334137608" ref="projection"/>
+    <file name="u5220-63.png" crc="3791449759" ref="projection"/>
+    <file name="u5220-64.png" crc="95342433" ref="projection"/>
+    <file name="u5300-4.png" crc="515240043" ref="中國香腸"/>
+    <file name="u5299-9.png" crc="3953221665" ref="中國香腸"/>
+    <file name="u5300-42.png" crc="219983674" ref="中國香腸"/>
+    <file name="u5299-92.png" crc="3841281204" ref="中國香腸"/>
+    <file name="u5300-43.png" crc="3784978400" ref="中國香腸"/>
+    <file name="u5299-93.png" crc="329492727" ref="中國香腸"/>
+    <file name="u5300-44.png" crc="417779748" ref="中國香腸"/>
+    <file name="u5299-94.png" crc="48239295" ref="中國香腸"/>
+    <file name="u5390-4.png" crc="4127439667" ref="靈"/>
+    <file name="u5391-7.png" crc="280029778" ref="靈"/>
+    <file name="u5390-42.png" crc="97137832" ref="靈"/>
+    <file name="u5391-72.png" crc="419709860" ref="靈"/>
+    <file name="u5390-43.png" crc="3908894190" ref="靈"/>
+    <file name="u5391-73.png" crc="165117150" ref="靈"/>
+    <file name="u5390-44.png" crc="3865597797" ref="靈"/>
+    <file name="u5391-74.png" crc="346364472" ref="靈"/>
+    <file name="u5498-6.png" crc="4117379843" ref="bondage"/>
+    <file name="u5498-62.png" crc="3864691680" ref="bondage"/>
+    <file name="u5498-63.png" crc="4259894702" ref="bondage"/>
+    <file name="u5498-64.png" crc="3941668599" ref="bondage"/>
+    <file name="u5572-6.png" crc="166190023" ref="smurf"/>
+    <file name="u5572-62.png" crc="443675501" ref="smurf"/>
+    <file name="u5572-63.png" crc="3862683966" ref="smurf"/>
+    <file name="u5572-64.png" crc="4007904914" ref="smurf"/>
+    <file name="u5656-4.png" crc="4267327268" ref="纏"/>
+    <file name="u5657-7.png" crc="310791050" ref="纏"/>
+    <file name="u5656-42.png" crc="14595958" ref="纏"/>
+    <file name="u5657-72.png" crc="3910970150" ref="纏"/>
+    <file name="u5656-43.png" crc="421260244" ref="纏"/>
+    <file name="u5657-73.png" crc="53456434" ref="纏"/>
+    <file name="u5656-44.png" crc="406835029" ref="纏"/>
+    <file name="u5657-74.png" crc="87227563" ref="纏"/>
+    <file name="u5716-6.png" crc="117064706" ref="mystery"/>
+    <file name="u5716-62.png" crc="4165402277" ref="mystery"/>
+    <file name="u5716-63.png" crc="4258382474" ref="mystery"/>
+    <file name="u5716-64.png" crc="164262663" ref="mystery"/>
+    <file name="u5806-18.png" crc="3847350193" ref="she’s-an-alien"/>
+    <file name="u5806-182.png" crc="414473917" ref="she’s-an-alien"/>
+    <file name="u5806-183.png" crc="3773208702" ref="she’s-an-alien"/>
+    <file name="u5806-184.png" crc="77452879" ref="she’s-an-alien"/>
+    <file name="u5910-4.png" crc="3952451500" ref="反常"/>
+    <file name="u5909-9.png" crc="177774223" ref="反常"/>
+    <file name="u5910-42.png" crc="280316662" ref="反常"/>
+    <file name="u5909-92.png" crc="220119157" ref="反常"/>
+    <file name="u5910-43.png" crc="3979975767" ref="反常"/>
+    <file name="u5909-93.png" crc="3813212633" ref="反常"/>
+    <file name="u5910-44.png" crc="3865541463" ref="反常"/>
+    <file name="u5909-94.png" crc="4035399313" ref="反常"/>
+    <file name="u5922-4.png" crc="362105091" ref="靜"/>
+    <file name="u5921-6.png" crc="138875914" ref="靜"/>
+    <file name="u5922-42.png" crc="3800663796" ref="靜"/>
+    <file name="u5921-62.png" crc="3862310241" ref="靜"/>
+    <file name="u5922-43.png" crc="4167937954" ref="靜"/>
+    <file name="u5921-63.png" crc="4200893258" ref="靜"/>
+    <file name="u5922-44.png" crc="4063615874" ref="靜"/>
+    <file name="u5921-64.png" crc="4277962336" ref="靜"/>
+    <file name="u6043-6.png" crc="430979148" ref="phantom"/>
+    <file name="u6043-62.png" crc="4129918399" ref="phantom"/>
+    <file name="u6043-63.png" crc="313792924" ref="phantom"/>
+    <file name="u6043-64.png" crc="4054344164" ref="phantom"/>
+    <file name="u6149-6.png" crc="4105726976" ref="silent"/>
+    <file name="u6149-62.png" crc="3875629442" ref="silent"/>
+    <file name="u6149-63.png" crc="3948990859" ref="silent"/>
+    <file name="u6149-64.png" crc="377830100" ref="silent"/>
+    <file name="u6229-6.png" crc="4238536393" ref="jimmy"/>
+    <file name="u6229-62.png" crc="4293960727" ref="jimmy"/>
+    <file name="u6229-63.png" crc="4007528805" ref="jimmy"/>
+    <file name="u6229-64.png" crc="421664309" ref="jimmy"/>
+    <file name="u6237-4.png" crc="3811297680" ref="赦"/>
+    <file name="u6238-6.png" crc="4258238518" ref="赦"/>
+    <file name="u6237-42.png" crc="4092528464" ref="赦"/>
+    <file name="u6238-62.png" crc="3836795052" ref="赦"/>
+    <file name="u6237-43.png" crc="93572142" ref="赦"/>
+    <file name="u6238-63.png" crc="102018919" ref="赦"/>
+    <file name="u6237-44.png" crc="3902966086" ref="赦"/>
+    <file name="u6238-64.png" crc="333654260" ref="赦"/>
+    <file name="u6392-7.png" crc="388050619" ref="souvenreve"/>
+    <file name="u6392-72.png" crc="3818139045" ref="souvenreve"/>
+    <file name="u6392-73.png" crc="516616494" ref="souvenreve"/>
+    <file name="u6392-74.png" crc="304296698" ref="souvenreve"/>
+    <file name="u6497-7.png" crc="4104572332" ref="emo"/>
+    <file name="u6497-72.png" crc="142373071" ref="emo"/>
+    <file name="u6497-73.png" crc="402637363" ref="emo"/>
+    <file name="u6497-74.png" crc="463119820" ref="emo"/>
+    <file name="u6618-4.png" crc="3901234194" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6619-7.png" crc="3805721720" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6618-42.png" crc="191003053" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6619-72.png" crc="3861849635" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6618-43.png" crc="231127255" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6619-73.png" crc="91439456" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6618-44.png" crc="4189646497" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6619-74.png" crc="106587071" ref="紫色のデーモン侵入注意!"/>
+    <file name="u6635-4.png" crc="135572021" ref="心不在菸"/>
+    <file name="u6634-8.png" crc="3837289005" ref="心不在菸"/>
+    <file name="u6635-42.png" crc="3905023780" ref="心不在菸"/>
+    <file name="u6634-82.png" crc="497774572" ref="心不在菸"/>
+    <file name="u6635-43.png" crc="116879194" ref="心不在菸"/>
+    <file name="u6634-83.png" crc="4089498409" ref="心不在菸"/>
+    <file name="u6635-44.png" crc="4108130044" ref="心不在菸"/>
+    <file name="u6634-84.png" crc="512067858" ref="心不在菸"/>
+    <file name="u6712-8.png" crc="224309084" ref="roam"/>
+    <file name="u6712-82.png" crc="433322952" ref="roam"/>
+    <file name="u6712-83.png" crc="60741279" ref="roam"/>
+    <file name="u6712-84.png" crc="4247278235" ref="roam"/>
+    <file name="u6859-11.png" crc="3912885473" ref="lamprophony"/>
+    <file name="u6859-112.png" crc="475317967" ref="lamprophony"/>
+    <file name="u6859-113.png" crc="226652098" ref="lamprophony"/>
+    <file name="u6859-114.png" crc="59533187" ref="lamprophony"/>
+    <file name="u6885-4.png" crc="4198803522" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6884-19.png" crc="517139826" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6885-42.png" crc="4123229437" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6884-192.png" crc="4177059769" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6885-43.png" crc="3868656704" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6884-193.png" crc="4263552715" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6885-44.png" crc="299775438" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u6884-194.png" crc="443738318" ref="本造型作品由平面設計為媒體傳達設計系學生張祖維設計"/>
+    <file name="u7013-7.png" crc="4196358639" ref="taquiner"/>
+    <file name="u7013-72.png" crc="412224239" ref="taquiner"/>
+    <file name="u7013-73.png" crc="3883189952" ref="taquiner"/>
+    <file name="u7013-74.png" crc="3819749732" ref="taquiner"/>
+    <file name="u7091-4.png" crc="3966983519" ref="濤"/>
+    <file name="u7092-13.png" crc="4005802211" ref="濤"/>
+    <file name="u7091-42.png" crc="4040025517" ref="濤"/>
+    <file name="u7092-132.png" crc="4011381821" ref="濤"/>
+    <file name="u7091-43.png" crc="3921469811" ref="濤"/>
+    <file name="u7092-133.png" crc="4226108536" ref="濤"/>
+    <file name="u7091-44.png" crc="378037895" ref="濤"/>
+    <file name="u7092-134.png" crc="3782326657" ref="濤"/>
+    <file name="u7145-10.png" crc="357061374" ref="feat"/>
+    <file name="u7145-102.png" crc="170168014" ref="feat"/>
+    <file name="u7145-103.png" crc="4009442610" ref="feat"/>
+    <file name="u7145-104.png" crc="295952652" ref="feat"/>
+    <file name="u7232-8.png" crc="4124121944" ref="sparkle"/>
+    <file name="u7232-82.png" crc="3851847657" ref="sparkle"/>
+    <file name="u7232-83.png" crc="4014427144" ref="sparkle"/>
+    <file name="u7232-84.png" crc="4154784120" ref="sparkle"/>
+    <file name="u7261-4.png" crc="3802161467" ref="癮"/>
+    <file name="u7262-7.png" crc="46907892" ref="癮"/>
+    <file name="u7261-42.png" crc="532200497" ref="癮"/>
+    <file name="u7262-72.png" crc="193638734" ref="癮"/>
+    <file name="u7261-43.png" crc="4152115213" ref="癮"/>
+    <file name="u7262-73.png" crc="354884142" ref="癮"/>
+    <file name="u7261-44.png" crc="426999950" ref="癮"/>
+    <file name="u7262-74.png" crc="4173698048" ref="癮"/>
+    <file name="u7340-6.png" crc="528203744" ref="swoon"/>
+    <file name="u7341-9.png" crc="4287533820" ref="swoon"/>
+    <file name="u7340-62.png" crc="22413292" ref="swoon"/>
+    <file name="u7341-92.png" crc="3774018735" ref="swoon"/>
+    <file name="u7340-63.png" crc="3902262477" ref="swoon"/>
+    <file name="u7341-93.png" crc="293966977" ref="swoon"/>
+    <file name="u7340-64.png" crc="4041430056" ref="swoon"/>
+    <file name="u7341-94.png" crc="4153920389" ref="swoon"/>
+    <file name="u7468-4.png" crc="185507084" ref="作樂"/>
+    <file name="u7467-14.png" crc="4019264371" ref="作樂"/>
+    <file name="u7468-42.png" crc="3911736931" ref="作樂"/>
+    <file name="u7467-142.png" crc="64902525" ref="作樂"/>
+    <file name="u7468-43.png" crc="4271383674" ref="作樂"/>
+    <file name="u7467-143.png" crc="527783545" ref="作樂"/>
+    <file name="u7468-44.png" crc="38832993" ref="作樂"/>
+    <file name="u7467-144.png" crc="161547022" ref="作樂"/>
+    <file name="u7569-4.png" crc="3803146699" ref="他媽的見不得"/>
+    <file name="u7570-13.png" crc="419673989" ref="他媽的見不得"/>
+    <file name="u7569-42.png" crc="4245642948" ref="他媽的見不得"/>
+    <file name="u7570-132.png" crc="3763472408" ref="他媽的見不得"/>
+    <file name="u7569-43.png" crc="3769281190" ref="他媽的見不得"/>
+    <file name="u7570-133.png" crc="3991942580" ref="他媽的見不得"/>
+    <file name="u7569-44.png" crc="111666471" ref="他媽的見不得"/>
+    <file name="u7570-134.png" crc="332243895" ref="他媽的見不得"/>
+  </folder>
+  <file name="index.html" crc="4156645321" seo="true" mt="1586148931705" redirect="true"/>
+  <file name="lntroduction.html" crc="500630591" seo="true" mt="1586148979545" redirect="true"/>
+  <file name="我就丑.html" crc="3781631224" seo="true" mt="1586147784182" redirect="true"/>
+  <file name="fanny-the-thief.html" crc="4150231443" seo="true" mt="1586148462457" redirect="true"/>
+  <file name="coco.html" crc="3820927171" seo="true" mt="1586148354445" redirect="true"/>
+  <file name="cleave.html" crc="325717796" seo="true" mt="1586148240695" redirect="true"/>
+  <file name="嘴砲.html" crc="480206902" seo="true" mt="1586148133587" redirect="true"/>
+  <file name="宇宙垃圾.html" crc="3945817075" seo="true" mt="1586147964819" redirect="true"/>
+  <file name="projection.html" crc="3972478295" seo="true" mt="1586147868039" redirect="true"/>
+  <file name="中國香腸.html" crc="4230247597" seo="true" mt="1586147784194" redirect="true"/>
+  <file name="靈.html" crc="115213615" seo="true" mt="1586147784195" redirect="true"/>
+  <file name="bondage.html" crc="448036321" seo="true" mt="1586147784197" redirect="true"/>
+  <file name="smurf.html" crc="409766860" seo="true" mt="1586147784198" redirect="true"/>
+  <file name="纏.html" crc="403507136" seo="true" mt="1586147784199" redirect="true"/>
+  <file name="mystery.html" crc="209284227" seo="true" mt="1586147784201" redirect="true"/>
+  <file name="she’s-an-alien.html" crc="3760862537" seo="true" mt="1586147784202" redirect="true"/>
+  <file name="反常.html" crc="354448164" seo="true" mt="1586147784203" redirect="true"/>
+  <file name="靜.html" crc="100833509" seo="true" mt="1586147784205" redirect="true"/>
+  <file name="phantom.html" crc="3789885335" seo="true" mt="1586147784206" redirect="true"/>
+  <file name="silent.html" crc="347969738" seo="true" mt="1586147784207" redirect="true"/>
+  <file name="jimmy.html" crc="355456282" seo="true" mt="1586147784209" redirect="true"/>
+  <file name="赦.html" crc="3783567648" seo="true" mt="1586147784210" redirect="true"/>
+  <file name="souvenreve.html" crc="4169194386" seo="true" mt="1586147784211" redirect="true"/>
+  <file name="emo.html" crc="302888193" seo="true" mt="1586147784212" redirect="true"/>
+  <file name="紫色のデーモン侵入注意!.html" crc="4172830033" seo="true" mt="1586147784215" redirect="true"/>
+  <file name="心不在菸.html" crc="73582895" seo="true" mt="1586147784217" redirect="true"/>
+  <file name="roam.html" crc="92932060" seo="true" mt="1586147784218" redirect="true"/>
+  <file name="lamprophony.html" crc="178589566" seo="true" mt="1586147784219" redirect="true"/>
+  <file name="本造型作品由平面設計為媒體傳達設計系學生張祖維設計.html" crc="376383895" seo="true" mt="1586147784221" redirect="true"/>
+  <file name="taquiner.html" crc="3841342768" seo="true" mt="1586147784222" redirect="true"/>
+  <file name="濤.html" crc="269111494" seo="true" mt="1586147784223" redirect="true"/>
+  <file name="feat.html" crc="323272049" seo="true" mt="1586147784224" redirect="true"/>
+  <file name="sparkle.html" crc="3860346755" seo="true" mt="1586147784224" redirect="true"/>
+  <file name="癮.html" crc="4046388983" seo="true" mt="1586147784225" redirect="true"/>
+  <file name="swoon.html" crc="4126576324" seo="true" mt="1586147784226" redirect="true"/>
+  <file name="作樂.html" crc="4184438737" seo="true" mt="1586147784226" redirect="true"/>
+  <file name="他媽的見不得.html" crc="177131195" seo="true" mt="1586147784227" redirect="true"/>
+  <file name="body-rhythm-q-a.html" crc="234000516" seo="true" mt="1586148738426" redirect="true"/>
+</manifest>
