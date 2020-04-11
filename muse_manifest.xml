@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccd.com" resolutions="1x" timestamp="1586599717312">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccd.com" resolutions="1x" timestamp="1586601004519">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="1.css" crc="4134191239" ref="1"/>
     <file name="2.css" crc="191323293" ref="2"/>
     <file name="qa.css" crc="4284586430" ref="qa"/>
     <file name="l.css" crc="368048428" ref="l"/>
-    <file name="index.css" crc="3922214691" ref="index"/>
+    <file name="index.css" crc="250132486" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:l:1:2:qa"/>
@@ -19,12 +19,12 @@
     <file name="require.js" crc="4157109226" ref="index:l:1:2:qa"/>
   </folder>
   <folder name="images">
-    <file name="u1102-4-a.png" crc="3895623184" ref="index"/>
+    <file name="u1102-4-a.png" crc="347833349" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:l:1:qa"/>
-    <file name="u1116.png" crc="3788758713" ref="index"/>
-    <file name="u1116-a.png" crc="3788758713" ref="index"/>
-    <file name="u1109.png" crc="282570542" ref="index"/>
-    <file name="u1109-a.png" crc="282570542" ref="index"/>
+    <file name="u1116.png" crc="386002883" ref="index"/>
+    <file name="u1116-a.png" crc="386002883" ref="index"/>
+    <file name="u1109.png" crc="4086710251" ref="index"/>
+    <file name="u1109-a.png" crc="4086710251" ref="index"/>
     <file name="b.jpg" crc="4013988466" ref="index:l:1:qa">
       <caption webpage="1" alt=""/>
       <caption webpage="index" alt=""/>
@@ -33,28 +33,16 @@
     </file>
     <file name="img_3459-u1119-fr.jpg" crc="3931765976" ref="index"/>
     <file name="img_20200404_104406-u1131-fr.jpg" crc="487521396" ref="index"/>
-    <file name="img_7062.jpg" crc="536794672" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="mvi_003500_00_08_16still003.jpg" crc="100970194" ref="index">
+    <file name="a0807105.jpg" crc="393947651" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a0807017.jpg" crc="4033647345" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0707152.jpg" crc="379199341" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7024.jpg" crc="3814638452" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_7042.jpg" crc="4121722960" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807006.jpg" crc="3908879185" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7031.jpg" crc="4144091424" ref="index">
+    <file name="img_7044.jpg" crc="4236120108" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_7041.jpg" crc="3916102884" ref="index">
@@ -63,28 +51,16 @@
     <file name="img_7045.jpg" crc="146978462" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807032.jpg" crc="165427441" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7053.jpg" crc="200498031" ref="index">
+    <file name="img_6102.jpg" crc="321996421" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a0807126.jpg" crc="455616493" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_7033.jpg" crc="4003598934" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a0807029.jpg" crc="4168920512" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="101.jpg" crc="4174701710" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807149.jpg" crc="4199345798" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a0807035.jpg" crc="4247932887" ref="index">
+    <file name="141.jpg" crc="4265158672" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="021.jpg" crc="364813338" ref="index">
@@ -93,43 +69,67 @@
     <file name="a0807031.jpg" crc="4222899543" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807014.jpg" crc="3900957914" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="a0807022.jpg" crc="248217229" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img_7058.jpg" crc="527775955" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807105.jpg" crc="393947651" ref="index">
+    <file name="a0707152.jpg" crc="379199341" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807140.jpg" crc="520461139" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7044.jpg" crc="4236120108" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7029.jpg" crc="378769752" ref="index">
+    <file name="a0807006.jpg" crc="3908879185" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_7069.jpg" crc="4045745910" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_6102.jpg" crc="321996421" ref="index">
+    <file name="img_7033.jpg" crc="4003598934" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807149.jpg" crc="4199345798" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807004.jpg" crc="4231947635" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7062.jpg" crc="536794672" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807140.jpg" crc="520461139" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7031.jpg" crc="4144091424" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807032.jpg" crc="165427441" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_7050.jpg" crc="3788623889" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="141.jpg" crc="4265158672" ref="index">
+    <file name="a0807035.jpg" crc="4247932887" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807014.jpg" crc="3900957914" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mvi_003500_00_08_16still003.jpg" crc="100970194" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7024.jpg" crc="3814638452" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7029.jpg" crc="378769752" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7053.jpg" crc="200498031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0807029.jpg" crc="4168920512" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a0807047.jpg" crc="87848772" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a0807004.jpg" crc="4231947635" ref="index">
+    <file name="a0807022.jpg" crc="248217229" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3327.png" crc="3895623184" ref="l"/>
@@ -163,7 +163,7 @@
     <file name="u3382-a.png" crc="3788758713" ref="qa"/>
     <file name="u3393-4-a.png" crc="282570542" ref="qa"/>
   </folder>
-  <file name="index.html" crc="498103700" seo="true" mt="1586598412001" redirect="true"/>
+  <file name="index.html" crc="219710730" seo="true" mt="1586600775112" redirect="true"/>
   <file name="l.html" crc="4243112713" seo="true" mt="1586598423572" redirect="true"/>
   <file name="1.html" crc="3855786527" seo="true" mt="1586598444383" redirect="true"/>
   <file name="2.html" crc="421323414" seo="true" mt="1586594312998" redirect="true"/>
