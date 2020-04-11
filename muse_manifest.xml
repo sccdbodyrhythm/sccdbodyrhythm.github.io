@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccd.com" resolutions="1x" timestamp="1586596167437">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sccd.com" resolutions="1x" timestamp="1586599717312">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="1.css" crc="3996558545" ref="1"/>
+    <file name="1.css" crc="4134191239" ref="1"/>
     <file name="2.css" crc="191323293" ref="2"/>
-    <file name="qa.css" crc="3870804804" ref="qa"/>
-    <file name="l.css" crc="4167520330" ref="l"/>
-    <file name="index.css" crc="77122413" ref="index"/>
+    <file name="qa.css" crc="4284586430" ref="qa"/>
+    <file name="l.css" crc="368048428" ref="l"/>
+    <file name="index.css" crc="3922214691" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:l:1:2:qa"/>
@@ -19,12 +19,12 @@
     <file name="require.js" crc="4157109226" ref="index:l:1:2:qa"/>
   </folder>
   <folder name="images">
-    <file name="u1102-4-a.png" crc="3923660446" ref="index"/>
+    <file name="u1102-4-a.png" crc="3895623184" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:l:1:qa"/>
-    <file name="u1116.png" crc="97698832" ref="index"/>
-    <file name="u1116-a.png" crc="97698832" ref="index"/>
-    <file name="u1109.png" crc="274643566" ref="index"/>
-    <file name="u1109-a.png" crc="274643566" ref="index"/>
+    <file name="u1116.png" crc="3788758713" ref="index"/>
+    <file name="u1116-a.png" crc="3788758713" ref="index"/>
+    <file name="u1109.png" crc="282570542" ref="index"/>
+    <file name="u1109-a.png" crc="282570542" ref="index"/>
     <file name="b.jpg" crc="4013988466" ref="index:l:1:qa">
       <caption webpage="1" alt=""/>
       <caption webpage="index" alt=""/>
@@ -32,7 +32,7 @@
       <caption webpage="qa" alt=""/>
     </file>
     <file name="img_3459-u1119-fr.jpg" crc="3931765976" ref="index"/>
-    <file name="img_20200404_104406-u1131-fr.jpg" crc="240632497" ref="index"/>
+    <file name="img_20200404_104406-u1131-fr.jpg" crc="487521396" ref="index"/>
     <file name="img_7062.jpg" crc="536794672" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -99,7 +99,6 @@
     <file name="a0807022.jpg" crc="248217229" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3238-4.png" crc="3958708028" ref="index"/>
     <file name="img_7058.jpg" crc="527775955" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -133,22 +132,21 @@
     <file name="a0807004.jpg" crc="4231947635" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3246-4.png" crc="3931290558" ref="index"/>
-    <file name="u3327.png" crc="3923660446" ref="l"/>
-    <file name="u3327-a.png" crc="3923660446" ref="l"/>
-    <file name="u3313-4-a.png" crc="97698832" ref="l"/>
-    <file name="u3324.png" crc="274643566" ref="l"/>
-    <file name="u3324-a.png" crc="274643566" ref="l"/>
-    <file name="u3465.png" crc="3923660446" ref="1"/>
-    <file name="u3465-a.png" crc="3923660446" ref="1"/>
-    <file name="u3451.png" crc="97698832" ref="1"/>
-    <file name="u3451-a.png" crc="97698832" ref="1"/>
-    <file name="u3462.png" crc="274643566" ref="1"/>
-    <file name="u3462-a.png" crc="274643566" ref="1"/>
-    <file name="img_20200404_104406.jpg" crc="4056543445" ref="1">
+    <file name="u3327.png" crc="3895623184" ref="l"/>
+    <file name="u3327-a.png" crc="3895623184" ref="l"/>
+    <file name="u3313-4-a.png" crc="3788758713" ref="l"/>
+    <file name="u3324.png" crc="282570542" ref="l"/>
+    <file name="u3324-a.png" crc="282570542" ref="l"/>
+    <file name="u3465.png" crc="3774138942" ref="1"/>
+    <file name="u3465-a.png" crc="3774138942" ref="1"/>
+    <file name="u3451.png" crc="291785282" ref="1"/>
+    <file name="u3451-a.png" crc="291785282" ref="1"/>
+    <file name="u3462.png" crc="467147866" ref="1"/>
+    <file name="u3462-a.png" crc="467147866" ref="1"/>
+    <file name="img_20200404_104406.jpg" crc="346866970" ref="1">
       <caption webpage="1" alt=""/>
     </file>
-    <file name="2336.png" crc="415765434" seo="true" ref="1">
+    <file name="699.png" crc="76439287" seo="true" ref="1">
       <caption webpage="1" alt=""/>
     </file>
     <file name="路徑b_工作區域 1.jpg" crc="4194282174" ref="2">
@@ -159,15 +157,15 @@
     </file>
     <file name="u3178-4.png" crc="317886008" ref="2"/>
     <file name="u3179-6.png" crc="485364868" ref="2"/>
-    <file name="u3396.png" crc="3923660446" ref="qa"/>
-    <file name="u3396-a.png" crc="3923660446" ref="qa"/>
-    <file name="u3382.png" crc="97698832" ref="qa"/>
-    <file name="u3382-a.png" crc="97698832" ref="qa"/>
-    <file name="u3393-4-a.png" crc="274643566" ref="qa"/>
+    <file name="u3396.png" crc="3895623184" ref="qa"/>
+    <file name="u3396-a.png" crc="3895623184" ref="qa"/>
+    <file name="u3382.png" crc="3788758713" ref="qa"/>
+    <file name="u3382-a.png" crc="3788758713" ref="qa"/>
+    <file name="u3393-4-a.png" crc="282570542" ref="qa"/>
   </folder>
-  <file name="index.html" crc="3968143625" seo="true" mt="1586594359200" redirect="true"/>
-  <file name="l.html" crc="192910879" seo="true" mt="1586585498522" redirect="true"/>
-  <file name="1.html" crc="4141564116" seo="true" mt="1586595981889" redirect="true"/>
+  <file name="index.html" crc="498103700" seo="true" mt="1586598412001" redirect="true"/>
+  <file name="l.html" crc="4243112713" seo="true" mt="1586598423572" redirect="true"/>
+  <file name="1.html" crc="3855786527" seo="true" mt="1586598444383" redirect="true"/>
   <file name="2.html" crc="421323414" seo="true" mt="1586594312998" redirect="true"/>
-  <file name="qa.html" crc="241465186" seo="true" mt="1586585498523" redirect="true"/>
+  <file name="qa.html" crc="3908714715" seo="true" mt="1586598427997" redirect="true"/>
 </manifest>
